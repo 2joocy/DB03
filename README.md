@@ -1,5 +1,10 @@
 # DB Assignment 3
 
+## Made by:
+- Chris Rosendorf
+- Viktor Kim Christiansen
+- William Pfaffe
+
 ## Queries:
 
 ### 1:
