@@ -4,7 +4,7 @@
 
 ### 1:
 ```
-db.getCollection("tweets").distinct("user")
+db.getCollection("tweets").distinct("user").length 
 ```
 ### 2:
 ```
